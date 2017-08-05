@@ -1,0 +1,1 @@
+export { endWith } from './endWith';
