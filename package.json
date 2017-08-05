@@ -1,7 +1,7 @@
 {
   "name": "rxjs-endwith",
   "version": "0.0.1",
-  "description": "",
+  "description": "endWith custom operator implementation for RxJS v5 as an example",
   "main": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
   "engines": {
