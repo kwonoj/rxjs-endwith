@@ -15,3 +15,5 @@ jest.json
 tsconfg.json
 tslint.json
 wallaby.js
+.circleci/
+tsconfig.json
