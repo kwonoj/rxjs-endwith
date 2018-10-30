@@ -1,3 +1,5 @@
+# DEPRECATED: This was example implementation for v5 of RxJS, for v6 and beyond it has default `endWith` operator.
+
 [![Build Status](https://circleci.com/gh/kwonoj/rxjs-endwith/tree/master.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/kwonoj/rxjs-endwith/tree/master)
 [![codecov](https://codecov.io/gh/kwonoj/rxjs-endwith/branch/master/graph/badge.svg)](https://codecov.io/gh/kwonoj/rxjs-endwith)
 [![npm](https://img.shields.io/npm/v/rxjs-endwith.svg)](https://www.npmjs.com/package/rxjs-endwith)
